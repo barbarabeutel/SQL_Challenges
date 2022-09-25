@@ -1,4 +1,4 @@
-Challenges Restaurant
+--Challenges Restaurant--
 --Here there's a total of 12 completed challenges--
 --The last challenges are the more complex ones--
 --Imagine there's a restaurant reservation system and this is its database--
