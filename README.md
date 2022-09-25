@@ -1,1 +1,1 @@
-# SQL_Challenges
+# SQL projects 2022
